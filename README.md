@@ -1,5 +1,4 @@
 # GitHub-Info-Fetcher
-# GitHub Info Fetcher 🔍
 
 A sleek, responsive web application built with vanilla HTML5, CSS3, and JavaScript that interacts with the GitHub REST API to quickly fetch user stats, repository creation dates, and repository metrics in a glassmorphic interface.
 
